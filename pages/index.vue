@@ -1,4 +1,3 @@
-<script></script>
 <template>
-  <div></div>
+<loGrupos />
 </template>
